@@ -5,6 +5,7 @@
 
 * {
   box-sizing: border-box;
+  
 }
 
 html {
@@ -21,6 +22,7 @@ ul {
   list-style: none;
   margin: 0;
   padding: 0;
+  /* align-items: center; */
 }
 
 #page {
@@ -40,6 +42,7 @@ ul {
   font-family: 'Inter', sans-serif;
   font-size: 1.5rem;
   border-radius: 4px;
+  /* align-items: center; */
 }
 
 #main-header #logo a,
@@ -191,6 +194,7 @@ ul {
   margin-bottom: 2rem;
   padding-bottom: 2rem;
   border-bottom: 2px solid #b0b0a6;
+  /* align-items: center; */
 }
 
 .error {
